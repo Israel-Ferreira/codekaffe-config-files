@@ -3,5 +3,5 @@ server:
 
 
 greeting-service:
-  greeting: "Ciao"
-  default-value: "Mondo"
+  greeting: "Bonjour"
+  default-value: "Le Monde"
